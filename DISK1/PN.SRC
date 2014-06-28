@@ -1,0 +1,10 @@
+;**********************************************************************
+;**
+;** PN.INI - Program Neighborhood Configuration File.
+;**
+;** This file contains Program Neighborhood settings. An administrator
+;** can configure this file by runing pn.exe and replace pn.src on the
+;** install media (disk 2) with this file.
+;**
+;**********************************************************************
+[Program Neighborhood]
